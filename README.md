@@ -1,0 +1,1 @@
+Processing source code for the general user interface for controlling the WheeTrometer visible or UV-visible spectrometer based on the Teensy 4.0 microcontroller board.  For information on building, calibrating and operating the WheeTrometer, see www.SmokyMtSci.com
